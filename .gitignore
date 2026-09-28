@@ -1,0 +1,12 @@
+node_modules
+dist
+*.local
+.DS_Store
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+
+# Tai lieu noi bo, khong push len repo public.
+# Ban sao cua PDF goc da nam trong public/cv.pdf nen khong mat gi.
+assets/
